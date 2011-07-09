@@ -1,9 +1,8 @@
 === Plugin Name ===
-Contributors: David_Miller
+Contributors: David_Miller, modified by Masayuki Ietomi
 Tags: open graph protocol, facebook, metadata, ogp, open graph data
 Requires at least: 3.0
-Tested up to: 3.1-RC3
-Stable tag: 1.0.5
+Tested up to: 3.2
 
 This is a plugin to add Open Graph Protocol Data to the metadata of your WordPress blog.
 
@@ -30,6 +29,17 @@ If you have any queries regarding this plugin, please visit [http://www.millersw
 7. The application ID
 
 == Changelog ==
+
+= Version 0.0.3 =
+* Added settings of auto-include og tags.
+
+= Version 0.0.2 =
+* Fixed typo.
+
+= Version 0.0.1 =
+* Customized the admin panel.
+
+-- Original Version --
 
 = Version 1.0.5 =
 * Updated FAQ.
