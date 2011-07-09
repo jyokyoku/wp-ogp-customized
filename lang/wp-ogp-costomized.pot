@@ -1,0 +1,93 @@
+# Copyright (C) 2010 WP-OGP added options customized
+# This file is distributed under the same license as the WP-OGP added options customized package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-OGP added options customized 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-ogp-costomized\n"
+"POT-Creation-Date: 2011-07-02 13:49:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-ogp-costomized.php:43
+msgid "A comma-separated list of Facebook user IDs that administers this site. You can find your user id by visiting <a href=\"http://apps.facebook.com/what-is-my-user-id/\" target=\"_blank\">http://apps.facebook.com/what-is-my-user-id/</a>"
+msgstr ""
+
+#: wp-ogp-costomized.php:47
+msgid "A Facebook Platform application ID that administers this site."
+msgstr ""
+
+#: wp-ogp-costomized.php:54
+msgid "Custom field key"
+msgstr ""
+
+#: wp-ogp-costomized.php:55
+msgid "The custom field key that is used by og:description."
+msgstr ""
+
+#: wp-ogp-costomized.php:60
+msgid "Using post excerpt"
+msgstr ""
+
+#: wp-ogp-costomized.php:63
+msgid "The og:description is used by the post excerpt."
+msgstr ""
+
+#: wp-ogp-costomized.php:67
+msgid "Text extraction type"
+msgstr ""
+
+#: wp-ogp-costomized.php:68
+msgid "Word Count"
+msgstr ""
+
+#: wp-ogp-costomized.php:68
+msgid "Character Count"
+msgstr ""
+
+#: wp-ogp-costomized.php:74
+msgid "og:description max size"
+msgstr ""
+
+#: wp-ogp-costomized.php:75
+msgid "The max word count or character length of the og:description."
+msgstr ""
+
+#: wp-ogp-costomized.php:80
+msgid "Using og:image type"
+msgstr ""
+
+#: wp-ogp-costomized.php:84
+msgid "Post thumbnail"
+msgstr ""
+
+#: wp-ogp-costomized.php:84
+msgid "Images used in post content"
+msgstr ""
+
+#: wp-ogp-costomized.php:87
+msgid "Max og:image amount"
+msgstr ""
+
+#: wp-ogp-costomized.php:89
+msgid "The max og:image amount when the using og:image type is checked by \"Images used in post content\". If \"0\" is set, og:image is used from all."
+msgstr ""
+
+#: wp-ogp-costomized.php:92
+msgid "Force using default image"
+msgstr ""
+
+#: wp-ogp-costomized.php:96
+msgid "The default image is anytime used when og:image type is \"Images used in post content\"."
+msgstr ""
+
+#: wp-ogp-costomized.php:99
+msgid "Default image URL"
+msgstr ""
+
+#: wp-ogp-costomized.php:104
+msgid "Include automatically og tags"
+msgstr ""

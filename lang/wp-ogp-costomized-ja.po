@@ -1,0 +1,97 @@
+# Copyright (C) 2010 WP-OGP added options customized
+# This file is distributed under the same license as the WP-OGP added options customized package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-OGP added options customized 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-ogp-costomized\n"
+"POT-Creation-Date: 2011-07-02 13:49:53+00:00\n"
+"PO-Revision-Date: 2011-07-09 19:54+0900\n"
+"Last-Translator: Masayuki Ietomi <jyokyoku@gmail.com>\n"
+"Language-Team:  <jyokyoku@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-ogp-costomized.php:43
+msgid "A comma-separated list of Facebook user IDs that administers this site. You can find your user id by visiting <a href=\"http://apps.facebook.com/what-is-my-user-id/\" target=\"_blank\">http://apps.facebook.com/what-is-my-user-id/</a>"
+msgstr "Webサイト管理者のFacebook IDをカンマ区切りで入力します。Facebook IDがわからない方は<a href=\"http://apps.facebook.com/what-is-my-user-id/\" target=\"_blank\">http://apps.facebook.com/what-is-my-user-id/</a>のサイトから確認してください。"
+
+#: wp-ogp-costomized.php:47
+msgid "A Facebook Platform application ID that administers this site."
+msgstr "Webサイトに結びつける、あなたの管理しているFacebookアプリケーションのIDを入力します。"
+
+#: wp-ogp-costomized.php:54
+msgid "Custom field key"
+msgstr "カスタムフィールドのキー"
+
+#: wp-ogp-costomized.php:55
+msgid "The custom field key that is used by og:description."
+msgstr "og:descriptionに利用するカスタムフィールドのキーを入力します。"
+
+#: wp-ogp-costomized.php:60
+msgid "Using post excerpt"
+msgstr "投稿の抜粋を利用"
+
+#: wp-ogp-costomized.php:63
+msgid "The og:description is used by the post excerpt."
+msgstr "og:descriptionに投稿の抜粋を利用します。"
+
+#: wp-ogp-costomized.php:67
+msgid "Text extraction type"
+msgstr "テキストの抽出方法"
+
+#: wp-ogp-costomized.php:68
+msgid "Word Count"
+msgstr "単語数"
+
+#: wp-ogp-costomized.php:68
+msgid "Character Count"
+msgstr "文字数"
+
+#: wp-ogp-costomized.php:74
+msgid "og:description max size"
+msgstr "og:descriptionの最大単語（文字）数"
+
+#: wp-ogp-costomized.php:75
+msgid "The max word count or character length of the og:description."
+msgstr "og:descriptionに利用する最大の単語（文字）数を入力します。"
+
+#: wp-ogp-costomized.php:80
+msgid "Using og:image type"
+msgstr "og:imageのタイプ"
+
+#: wp-ogp-costomized.php:84
+msgid "Post thumbnail"
+msgstr "アイキャッチ画像"
+
+#: wp-ogp-costomized.php:84
+msgid "Images used in post content"
+msgstr "記事中の画像"
+
+#: wp-ogp-costomized.php:87
+msgid "Max og:image amount"
+msgstr "og:imageの最大数"
+
+#: wp-ogp-costomized.php:89
+msgid "The max og:image amount when the using og:image type is checked by \"Images used in post content\". If \"0\" is set, og:image is used from all."
+msgstr "og:imageのタイプが【記事中の画像】の場合に、利用するog:imageの最大数を指定します。【0】が指定された場合、記事に含まれる全ての画像がog:imageとして利用されます。"
+
+#: wp-ogp-costomized.php:92
+msgid "Force using default image"
+msgstr "必ずデフォルトの画像を利用"
+
+#: wp-ogp-costomized.php:96
+msgid "The default image is anytime used when og:image type is \"Images used in post content\"."
+msgstr "og:imageのタイプが【記事中の画像】の場合に、必ずデフォルトの画像を含めるかどうかを指定します。"
+
+#: wp-ogp-costomized.php:99
+msgid "Default image URL"
+msgstr "デフォルトの画像URL"
+
+#: wp-ogp-costomized.php:104
+msgid "Include automatically og tags"
+msgstr "自動的にogタグを埋め込む"
+
